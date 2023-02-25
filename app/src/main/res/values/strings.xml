@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">My Appitemcation</string>
-    
+
     <string-array name="counties">
         <item>Alamance County, NC</item>
         <item>Alexander County, NC</item>
@@ -43,7 +43,7 @@
         <item>Granville County, NC</item>
         <item>Greene County, NC</item>
         <item>Guilford County, NC</item>
-        <item>Haitemfax County, NC</item>
+        <item>Halifax County, NC</item>
         <item>Harnett County, NC</item>
         <item>Haywood County, NC</item>
         <item>Henderson County, NC</item>
