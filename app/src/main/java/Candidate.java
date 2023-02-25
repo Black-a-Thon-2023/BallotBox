@@ -4,7 +4,7 @@ public class Candidate {
     private String name;
     private String party;
     private String image;
-    private ArrayList<String> topic = new ArrayList<>();
+    private String[] topics;
 
     public String getName() {
         return name;
@@ -15,7 +15,7 @@ public class Candidate {
     public String getImage() {
         return image;
     }
-    public ArrayList<String> getTopic() {
+    public String[] getTopic() {
         return topic;
     }
 }

@@ -12,7 +12,6 @@ public class Manager {
         sortedCandidates = new ArrayList<>();
         chosenCandidates = new ArrayList<>();
 
-
         if (isFirstCounty) {
             //First data set
         }
@@ -38,11 +37,11 @@ public class Manager {
     public void removeFromChosen(Candidate c) {
         chosenCandidates.remove(c);
     }
-    public int submitQuiz(int[] values) {
-        for (int i = 0; i < questionsList[NUM_QUESTIONS]; i++) {
+    public void submitQuiz(int[] values) {
+        for (int i = 0; i < NUM_QUESTIONS; i++) {
             questionsList[i] = values[i];
         }
-        return 0;
+        return;
     }
 
 }
