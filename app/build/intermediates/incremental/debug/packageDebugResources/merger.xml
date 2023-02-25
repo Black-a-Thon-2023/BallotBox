@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res"/><source path="/Users/treydixon/StudioProjects/BallotBox/app/build/generated/res/rs/debug"/><source path="/Users/treydixon/StudioProjects/BallotBox/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res"><file name="ic_launcher" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-mdpi/ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="ic_launcher" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-hdpi/ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="james_roberson" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/drawable/james_roberson.jpg" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/drawable/ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="activity_map_view" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/layout/activity_map_view.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/values-night/themes.xml" qualifiers="night-v8"><style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/values/colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color></file><file path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/values/themes.xml" qualifiers=""><style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">My Appitemcation</string><string-array name="counties">
+        <item>Alamance County, NC</item>
+        <item>Alexander County, NC</item>
+        <item>Alleghany County, NC</item>
+        <item>Anson County, NC</item>
+        <item>Ashe County, NC</item>
+        <item>Avery County, NC</item>
+        <item>Beaufort County, NC</item>
+        <item>Bertie County, NC</item>
+        <item>Bladen County, NC</item>
+        <item>Brunswick County, NC</item>
+        <item>Buncombe County, NC</item>
+        <item>Burke County, NC</item>
+        <item>Cabarrus County, NC</item>
+        <item>Caldwell County, NC</item>
+        <item>Camden County, NC</item>
+        <item>Carteret County, NC</item>
+        <item>Caswell County, NC</item>
+        <item>Catawba County, NC</item>
+        <item>Chatham County, NC</item>
+        <item>Cherokee County, NC</item>
+        <item>Chowan County, NC</item>
+        <item>Clay County, NC</item>
+        <item>Cleveland County, NC</item>
+        <item>Columbus County, NC</item>
+        <item>Craven County, NC</item>
+        <item>Cumberland County, NC</item>
+        <item>Currituck County, NC</item>
+        <item>Dare County, NC</item>
+        <item>Davidson County, NC</item>
+        <item>Davie County, NC</item>
+        <item>Dupitemn County, NC</item>
+        <item>Durham County, NC</item>
+        <item>Edgecombe County, NC</item>
+        <item>Forsyth County, NC</item>
+        <item>Frankitemn County, NC</item>
+        <item>Gaston County, NC</item>
+        <item>Gates County, NC</item>
+        <item>Graham County, NC</item>
+        <item>Granville County, NC</item>
+        <item>Greene County, NC</item>
+        <item>Guilford County, NC</item>
+        <item>Haitemfax County, NC</item>
+        <item>Harnett County, NC</item>
+        <item>Haywood County, NC</item>
+        <item>Henderson County, NC</item>
+        <item>Hertford County, NC</item>
+        <item>Hoke County, NC</item>
+        <item>Hyde County, NC</item>
+        <item>Iredell County, NC</item>
+        <item>Jackson County, NC</item>
+        <item>Johnston County, NC</item>
+        <item>Jones County, NC</item>
+        <item>Lee County, NC</item>
+        <item>Lenoir County, NC</item>
+        <item>itemncoln County, NC</item>
+        <item>Macon County, NC</item>
+        <item>Madison County, NC</item>
+        <item>Martin County, NC</item>
+        <item>McDowell County, NC</item>
+        <item>Mecklenburg County, NC</item>
+        <item>Mitchell County, NC</item>
+        <item>Montgomery County, NC</item>
+        <item>Moore County, NC</item>
+    </string-array></file><file name="backup_rules" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/xml/backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/xml/data_extraction_rules.xml" qualifiers="" type="xml"/><file name="ic_launcher" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" qualifiers="anydpi-v33" type="mipmap"/><file name="ic_launcher" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="/Users/treydixon/StudioProjects/BallotBox/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/></source><source path="/Users/treydixon/StudioProjects/BallotBox/app/build/generated/res/rs/debug"/><source path="/Users/treydixon/StudioProjects/BallotBox/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/treydixon/StudioProjects/BallotBox/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/treydixon/StudioProjects/BallotBox/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>

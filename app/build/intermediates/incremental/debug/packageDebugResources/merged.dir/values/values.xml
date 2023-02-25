@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="counties">
+        <item>Alamance County, NC</item>
+        <item>Alexander County, NC</item>
+        <item>Alleghany County, NC</item>
+        <item>Anson County, NC</item>
+        <item>Ashe County, NC</item>
+        <item>Avery County, NC</item>
+        <item>Beaufort County, NC</item>
+        <item>Bertie County, NC</item>
+        <item>Bladen County, NC</item>
+        <item>Brunswick County, NC</item>
+        <item>Buncombe County, NC</item>
+        <item>Burke County, NC</item>
+        <item>Cabarrus County, NC</item>
+        <item>Caldwell County, NC</item>
+        <item>Camden County, NC</item>
+        <item>Carteret County, NC</item>
+        <item>Caswell County, NC</item>
+        <item>Catawba County, NC</item>
+        <item>Chatham County, NC</item>
+        <item>Cherokee County, NC</item>
+        <item>Chowan County, NC</item>
+        <item>Clay County, NC</item>
+        <item>Cleveland County, NC</item>
+        <item>Columbus County, NC</item>
+        <item>Craven County, NC</item>
+        <item>Cumberland County, NC</item>
+        <item>Currituck County, NC</item>
+        <item>Dare County, NC</item>
+        <item>Davidson County, NC</item>
+        <item>Davie County, NC</item>
+        <item>Dupitemn County, NC</item>
+        <item>Durham County, NC</item>
+        <item>Edgecombe County, NC</item>
+        <item>Forsyth County, NC</item>
+        <item>Frankitemn County, NC</item>
+        <item>Gaston County, NC</item>
+        <item>Gates County, NC</item>
+        <item>Graham County, NC</item>
+        <item>Granville County, NC</item>
+        <item>Greene County, NC</item>
+        <item>Guilford County, NC</item>
+        <item>Haitemfax County, NC</item>
+        <item>Harnett County, NC</item>
+        <item>Haywood County, NC</item>
+        <item>Henderson County, NC</item>
+        <item>Hertford County, NC</item>
+        <item>Hoke County, NC</item>
+        <item>Hyde County, NC</item>
+        <item>Iredell County, NC</item>
+        <item>Jackson County, NC</item>
+        <item>Johnston County, NC</item>
+        <item>Jones County, NC</item>
+        <item>Lee County, NC</item>
+        <item>Lenoir County, NC</item>
+        <item>itemncoln County, NC</item>
+        <item>Macon County, NC</item>
+        <item>Madison County, NC</item>
+        <item>Martin County, NC</item>
+        <item>McDowell County, NC</item>
+        <item>Mecklenburg County, NC</item>
+        <item>Mitchell County, NC</item>
+        <item>Montgomery County, NC</item>
+        <item>Moore County, NC</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Appitemcation</string>
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
